@@ -1,4 +1,4 @@
-update=11.02.2018 23:12:29
+update=07.05.2018 23:23:41
 version=1
 last_client=kicad
 [pcbnew]
@@ -150,3 +150,13 @@ LibName120=C:/Program Files/KiCad/share/kicad/library/Zilog
 LibName121=D:/KiCadLibs/libaries/kicad-library/ESP8266
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
